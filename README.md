@@ -10,7 +10,7 @@ Create a simple dynamic website which has the following specs.
 3. No Login Page. No User Creation. Only transfer of money between multiple users.
 4. Host the website.
 
-### Technologies used:
+### Techstack:
 
 Client Side: Html, CSS, Javascript<br>
 Server Side: PHP<br>
