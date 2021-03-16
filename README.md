@@ -28,5 +28,5 @@ DBMS: MySQL<br>
 4. resultpage: This is the action page after user fills the form for transaction showcased by transfer.php. Here the actual transaction of money from database takes place. It is also responsible for error handling if any occurs in form filling. Also, it updates history table in DB which is keeping track of all transactions happened so far.<br>
 5. recordspage.php: This page shows the transaction record of all the money of customers taking place.<br>
 6. navbar.php: This is just responsible for showcasing the navigation bar at top of all pages.<br>
-7. spark_bank.sql: This is the database file made using mySQL DBMS. It consist of two tables accountdetails and history. Former is used to keep record of all customers and latter is going to keep track of all transaction taking place.<br>
+7. spark_bank.sql: This is the database file made using MySQL DBMS. It consist of two tables accountdetails and history. Former is used to keep record of all customers and latter is going to keep track of all transaction taking place.<br>
 
