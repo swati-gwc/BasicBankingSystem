@@ -1,6 +1,6 @@
 # Basic Banking System
 
-This project has been completed during my one-month Web development Internship with The Sparks Foundation.
+This project has been completed during my one-month Web development Internship with The Sparks Foundation. Check out the video to see how this website works [here](https://youtu.be/kTrb-JZYorI).
 
 ### Task assigned was as follows:
 
