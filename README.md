@@ -2,6 +2,10 @@
 
 This project has been completed during my one-month Web development Internship with The Sparks Foundation. Check out the video to see how this website works [here](https://youtu.be/kTrb-JZYorI).
 
+Website is hosted here: http://swatitripathi.epizy.com/
+
+Drop a star if this code helps you :)
+
 ### Task assigned was as follows:
 
 Create a simple dynamic website which has the following specs.
@@ -15,3 +19,12 @@ Create a simple dynamic website which has the following specs.
 Client Side: Html, CSS, Javascript<br>
 Server Side: PHP<br>
 DBMS: MySQL<br>
+
+### Project code description
+
+1. index.php : First starting page of the project.<br>
+2. viewCustomers.php: This file is responsible for displaying customer table after fetching from database.<br>
+3. transfer.php: This is responsible for fund transfer where it displays the form asking for id of payer and payee and amount.<br>
+4. resultpage: This is the action page after user fills the form for transaction showcased by transfer.php. Here the actual transaction of money from database takes place. It is also responsible for error handling if any occurs in form filling. Also, it updates history table in DB which is keeping track of all transactions happened so far.<br>
+5. recordspage.php: This page shows the transaction record of all the money of customers taking place.<br>
+
