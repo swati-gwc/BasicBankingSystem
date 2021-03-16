@@ -14,4 +14,4 @@ Create a simple dynamic website which has the following specs.
 
 Client Side: Html, CSS, Javascript<br>
 Server Side: PHP<br>
-Database used: MySQL database<br>
+DBMS: MySQL<br>
